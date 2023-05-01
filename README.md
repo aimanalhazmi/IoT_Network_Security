@@ -10,5 +10,5 @@ Wir möchten auch darauf hinweisen, dass dieses Projekt unter der MIT-Lizenz ste
 Wir hoffen, dass dieses Projekt ein nützlicher Beitrag zur Forschung im Bereich der IoT-Netzwerksicherheit in Smart Homes sein wird. 
 
 ## Autoren
-### Aiman Al-Hazmi\
+### Aiman Al-Hazmi
 ### Zohreh Asadi
