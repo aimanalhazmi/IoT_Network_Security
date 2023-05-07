@@ -9,8 +9,8 @@ Wir möchten auch darauf hinweisen, dass dieses Projekt unter der MIT-Lizenz ste
 
 Wir hoffen, dass dieses Projekt ein nützlicher Beitrag zur Forschung im Bereich der IoT-Netzwerksicherheit in Smart Homes sein wird. 
 
-# Ausarbeitung 
-[Bitte hier klicken](https://www.overleaf.com/read/qddzhtdzprzw)
+# Tools
+Zur Zusammenarbeit wird overleaf genutzt, um die [Ausarbeitung](https://www.overleaf.com/read/qddzhtdzprzw) zu schreiben.
 
 ## Autoren
 ### Aiman Al-Hazmi
