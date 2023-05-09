@@ -10,7 +10,9 @@ Wir möchten auch darauf hinweisen, dass dieses Projekt unter der MIT-Lizenz ste
 Wir hoffen, dass dieses Projekt ein nützlicher Beitrag zur Forschung im Bereich der IoT-Netzwerksicherheit in Smart Homes sein wird. 
 
 # Tools
-Zur Zusammenarbeit wird overleaf genutzt, um die [Ausarbeitung](https://www.overleaf.com/read/qddzhtdzprzw) zu schreiben.
+### Um effizient und erfolgreich zusammenzuarbeiten, nutzen wir die folgenden Tools:
+1. Overleaf, um die [Ausarbeitung](https://www.overleaf.com/read/qddzhtdzprzw) zu schreiben.
+2. Microsoft PowerPoint, um gemeinsam die [Folien](https://1drv.ms/p/s!AhEWYYpumGqMgdQ4V-8XlFCua9Aqbg?e=toBX71) zur Präsentation zu erstellen und zu bearbeiten.
 
 ## Autoren
 ### Aiman Al-Hazmi
