@@ -1,0 +1,14 @@
+[X] ich/wir habe/n eine ausformulierte Zusammenfassung der zwei/vier/sechs relevantesten Quellen in das Seminararbeits-Template eingepflegt
+[X] wir haben gekennzeichnet, wer welchen Teil geschrieben hat (gleichmäßige Aufteilung!)
+[X] der Umfang dieser Zusammenfassung ist deutlich unter 1/3 der Gesamtseitenzahl der Originalquelle, aber länger als die Einleitung der Originalquellen
+[X] ich/wir habe/n unsere Kapitelstruktur im Seminararbeits-Template aktualisiert
+[X] ich/wir habe/n den aktuellen Stand unseres Seminararbeits-Templates im PDF-Format innerhalb der Abgabefrist ins Git hochgeladen
+Präsentation (ca. 10 Minuten bzw. 15min zu zweit bzw. 20min zu dritt))
+[X] meine/unsere Präsentation enthält eine kurze Erinnerung an den Kontext des Themas
+[X] meine/unsere Präsentation erklärt, ob und warum es eine Änderung des Schwerpunktes gegeben hat
+[X] meine/unsere Präsentation greift den Zeitplan wieder auf und zeigt, wo ich/wir stehen
+[X] meine/unsere Präsentation enthält die endgültige Kapitelstruktur der Seminararbeit
+[X] meine/unsere Präsentation stellt die bisherige Quellenarbeit dar
+[X] meine/unsere Präsentation erklärt, welche Quellen warum für die Zusammenfassungen ausgewählt wurden und worum es darin geht
+[X] ich/wir habe/n den aktuellen Stand unserer Präsentations-Slides im PDF-Format innerhalb der Abgabefrist ins Git hochgeladen
+[X] ich/wir habe/n die Seminararsbeit und die Präsentations-Slides im PDF-Format hier im Whiteboard unter diesem Assignment hochgeladen
